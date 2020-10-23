@@ -1,0 +1,2 @@
+Este archivo se agregó en la rama 'Feature 2'
+Línea nueva en rama 'Feature 2'
